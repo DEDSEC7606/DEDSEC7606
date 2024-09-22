@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AJEY AKA @DEDSEC7606
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Cybersecurity 
 - 💞️ I’m looking to collaborate on a coding expert
 - 📫 How to reach me ...instagram.com/_.smart._
   

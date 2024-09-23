@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java and Cybersecurity 
 - 💞️ I’m looking to collaborate on a coding expert
-- 📫 How to reach me ...instagram.com/_.a.j.e.y._
+- 📫 How to reach me ...https://www.linkedin.com/in/ajey-balaganesh/
   
 
 <!---
